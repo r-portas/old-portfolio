@@ -27,7 +27,7 @@
     "gatsby-remark-images": "^5.0.0",
     "gatsby-remark-prismjs": "^5.0.0",
     "gatsby-source-filesystem": "^3.0.0",
-    "gatsby-transformer-sharp": "^3.0.0",
+    "gatsby-transformer-sharp": "^4.4.0",
     "lodash": "^4.17.21",
     "mermaid": "^8.9.1",
     "prism-themes": "^1.5.0",
